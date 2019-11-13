@@ -7,7 +7,7 @@ A neural network can be viewed as a human brain that has many connected artifica
 moves through them in a single direction: Data->Input->Hidden->Output. This allows alllows deep learning to occur, we can feed it 
 vast amount of data and it can be trained to interpret the data and make predictions by anaylizing "training sets" or "training data".
 
-The larger the data set, the more accurate the predictions will be. This example provides 2 sets of training data. Run `node index.js` or `node index2.js` to run your data against the network. 
+The larger the data set, the more accurate the predictions will be. This example provides 2 sets of training data. Run `node index.js` or `node index2.js` to run the data against the network. 
 You can manipulate the training data in the following files: `data.json` & `index.js`
 
 <img width="710" alt="Screen Shot 2019-11-13 at 3 04 55 PM" src="https://user-images.githubusercontent.com/25810109/68813359-6f110180-062a-11ea-952a-0a09b24d0648.png">
