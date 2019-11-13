@@ -10,8 +10,7 @@ vast amount of data and it can be trained to interpret the data and make predict
 The larger the data set, the more accurate the predictions will be. This example provides 2 sets of training data. Run `node index.js` or `node index2.js` to run your data against the network. 
 You can manipulate the training data in the following files: `data.json` & `index.js`
 
-<img width="1041" alt="Screen Shot 2019-09-02 at 4 45 58 PM" src="https://user-images.githubusercontent.com/25810109/64135860-faa42180-cda1-11e9-8780-8a8fed8d250f.png">
-
+<img width="710" alt="Screen Shot 2019-11-13 at 3 04 55 PM" src="https://user-images.githubusercontent.com/25810109/68813359-6f110180-062a-11ea-952a-0a09b24d0648.png">
 
 
 ## Concepts Covered
