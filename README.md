@@ -16,5 +16,5 @@ You can manipulate the training data in the following files: `data.json` & `inde
 ## Concepts Covered
 - How to create a neural network
 - Implement Brain.js library 
-- Add training data
+- Add and manipulate training data
 
